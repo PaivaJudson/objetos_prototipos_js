@@ -55,12 +55,12 @@ const p1 = new Person('Quissanga Paiva');
 const prof1 = new Professor('Judson Paiva', 'TLP');
 prof1.grade('my paper');
 
-
+const summers = new
 
 
 // classe sem atributos
 
-class Animal {
+    class Animal {
 
     sleep() {
         console.log('abcdefg');
